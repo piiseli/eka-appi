@@ -1,0 +1,7 @@
+{
+  "name": "Eka Appi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
